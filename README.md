@@ -261,26 +261,3 @@ Java Cryptography Extension (JCE) API to provide
 Apache JMeter does not include any implementation of JSSE or JCE.
 
 ## Thanks
-
-**Thank you for using Apache JMeter.**
-
-### Third party notices
-
-* Notice for mxparser:
-
-  >  This product includes software developed by the Indiana
-  >  University Extreme! Lab.  For further information please visit
-  >  http://www.extreme.indiana.edu/
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
